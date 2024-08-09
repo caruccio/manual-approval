@@ -1,4 +1,4 @@
-name: Manual Workflow Approval
+name: Manual Workflow Approval - Caruccio
 description: Pause a workflow and get user approval to continue
 branding:
   icon: pause
