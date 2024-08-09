@@ -38,4 +38,4 @@ outputs:
     description: The URL of the issued created
 runs:
   using: docker
-  image: docker://ghcr.io/trstringer/manual-approval:1.9.1
+  image: docker://ghcr.io/caruccio/manual-approval:1.10.0-alpha1
